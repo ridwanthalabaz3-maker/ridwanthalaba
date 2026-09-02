@@ -1,0 +1,1 @@
+"iamridwan.my.id" | Out-File -Encoding ASCII CNAME
